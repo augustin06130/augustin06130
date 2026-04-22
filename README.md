@@ -1,34 +1,62 @@
- <div align="center">
-   
-   **Currently studying Software Engineering at École 42, Paris**
-   </br>
-   </br>
+# Augustin Drye · Full-stack Freelance Developer
 
- ![](https://github-readme-streak-stats.herokuapp.com/?user=augustin06130&theme=midnight-purple&hide_border=true)<br/>
- 
+**I ship mobile apps and web platforms for startups, SMEs, and associations — solo.**
 
- </div>
+📍 Paris, France · Available for freelance missions
+📧 [augustin.drye@gmail.com](mailto:augustin.drye@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/augustin-drye-845a8a20b/) · 🎯 [Malt](https://www.malt.fr/profile/augustindrye)
 
-<div align="center">
-<div style="text-align: center;">
-  
+---
 
-<br>
+## 🧰 What I do
 
+- **Mobile apps** — Flutter/Dart, one codebase for iOS + Android
+- **Web platforms** — TypeScript, Node.js, Next.js, full-stack
+- **End-to-end MVPs** — from idea to mobile app + web backend + deployment
 
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=augustin06130&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 🚀 Selected projects
 
-</div>
-<br>
+| Project | What it is | Stack |
+|---|---|---|
+| [**la_carte_mobile**](https://github.com/augustin06130/la_carte_mobile) | Restaurant ordering ecosystem — mobile app + website with Stripe, real-time tracking, kitchen interface | Flutter · Next.js · TypeScript · Firebase · Stripe |
+| [**un-hopital-autrement**](https://github.com/augustin06130/un-hopital-autrement) | Website for a medical humanitarian association (public + admin CMS with rich editor, newsletter) | Next.js 16 · React 19 · Firebase · TipTap |
+| [**elan**](https://github.com/augustin06130/elan) | "The Duolingo of reading" — mobile app enforcing a daily reading habit via AI-generated comprehension questions | Flutter · Riverpod · Firebase · Claude API · RevenueCat |
+| [**ft_transcendence**](https://github.com/augustin06130/ft_transcendence) | Full-stack multiplayer pong — École 42 final project | TypeScript · NestJS |
 
+## 💼 Open to freelance work
 
+- **Short missions** (1–4 weeks) — MVP prototyping, specific features
+- **Longer engagements** (1–6 months) — solo delivery of a full product
+- **Mobile-first, web-first, or full-stack**
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+**Contact:** [augustin.drye@gmail.com](mailto:augustin.drye@gmail.com) · [LinkedIn](https://www.linkedin.com/in/augustin-drye-845a8a20b/) · [Malt](https://www.malt.fr/profile/augustindrye)
 
+---
 
-<div align="center">
+<details>
+<summary>🇫🇷 Version française</summary>
 
+### Augustin Drye · Développeur full-stack freelance
 
-[![](https://visitcount.itsvg.in/api?id=augustin061130&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+**Je livre des applications mobiles et des plateformes web pour startups, PME et associations — en solo.**
+
+📍 Paris, France · Disponible pour missions freelance
+
+#### 🧰 Ce que je fais
+- **Applications mobiles** — Flutter/Dart (iOS + Android, une seule base de code)
+- **Plateformes web** — TypeScript, Node.js, Next.js, full-stack
+- **MVP de bout en bout** — idée → app mobile + backend + déploiement
+
+#### 🚀 Projets sélectionnés
+- **[la_carte_mobile](https://github.com/augustin06130/la_carte_mobile)** — écosystème de commande en restaurant (mobile + web + Stripe)
+- **[un-hopital-autrement](https://github.com/augustin06130/un-hopital-autrement)** — site pour une association médicale humanitaire (public + back-office CMS)
+- **[elan](https://github.com/augustin06130/elan)** — app mobile "le Duolingo de la lecture" avec questions générées par IA
+- **[ft_transcendence](https://github.com/augustin06130/ft_transcendence)** — pong multijoueur full-stack (projet final 42)
+
+#### 💼 Missions freelance
+- **Courtes** (1–4 semaines) — prototypage, features spécifiques
+- **Longues** (1–6 mois) — livraison solo d'un produit complet
+- **Mobile-first, web-first, ou full-stack**
+
+**Contact** : [augustin.drye@gmail.com](mailto:augustin.drye@gmail.com) · [LinkedIn](https://www.linkedin.com/in/augustin-drye-845a8a20b/) · [Malt](https://www.malt.fr/profile/augustindrye)
+
+</details>
